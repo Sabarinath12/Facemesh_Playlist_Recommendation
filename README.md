@@ -23,7 +23,7 @@ pip install opencv-python mediapipe numpy
 
 1. Run the application:
    ```bash
-   python facemesh_playlist_recommendation.py
+   python main.py
    ```
 
 2. Position yourself in front of the camera with good lighting
